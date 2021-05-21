@@ -1,6 +1,8 @@
 # SMPD
 Statystyczne metody przetwarzania danych
 
+numpy, pandas, matplotlib
+
 - Lab1 - NN
 - Lab2 - kNN
 - Lab3 - NM
